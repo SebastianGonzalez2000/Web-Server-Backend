@@ -6,3 +6,4 @@ Backend for a fully functioning Web Server that responds to requests from your o
  - Understanding of Networking protocols such as the Internet Protocol, the Transmission Control Protocol, and the HypterText Transfer Protocol
  - Socket Programming in C++
  - Basic web page design using HTML
+ - Object Oriented Programming in C++
